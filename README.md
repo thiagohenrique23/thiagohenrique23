@@ -1,4 +1,4 @@
-## Olá ! Eu sou Thiago Henrique 😁
+## <div align="center" style="display: inline_block"> Olá ! Eu sou Thiago Henrique 😁 </div>
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/thiagohenrique23/thiagohenrique23">
@@ -22,9 +22,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/thiago-henrique-a43858188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/th_king07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/thiagohenrique23/thiagohenrique23/blob/output/github-contribution-grid-snake.svg)
-  
 </div>  
 
 ##
