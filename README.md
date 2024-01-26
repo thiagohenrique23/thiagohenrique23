@@ -28,6 +28,7 @@ Minhas principais habilidades técnicas incluem:
   <img src="https://img.shields.io/badge/MySQL-280137?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-280137?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-280137?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-280137?style=for-the-badge&logo=python&logoColor=white" />
 </div>
   
 ## Objetivos Profissionais ↗
