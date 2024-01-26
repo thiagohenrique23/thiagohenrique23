@@ -4,8 +4,8 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/thiagohenrique23/thiagohenrique23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagohenrique23&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohenrique23&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagohenrique23&show_icons=true&theme=shades-of-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohenrique23&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 
 ## Sobre Mim 😎
@@ -19,16 +19,16 @@
 
 Minhas principais habilidades técnicas incluem:
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/HTML-280137?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-280137?style=for-the-badge&logo=css3&logoColor=white" />  
-  <img src="https://img.shields.io/badge/JavaScript-280137?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-280137?style=for-the-badge&logo=react&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Node.js-280137?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-280137?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-280137?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-280137?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-280137?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-280137?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-FAD000?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-FAD000?style=for-the-badge&logo=css3&logoColor=black" />  
+  <img src="https://img.shields.io/badge/JavaScript-FAD000?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-FAD000?style=for-the-badge&logo=react&logoColor=black" />  
+  <img src="https://img.shields.io/badge/Node.js-FAD000?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-FAD000?style=for-the-badge&logo=typescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-FAD000?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FAD000?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-FAD000?style=for-the-badge&logo=wordpress&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-FAD000?style=for-the-badge&logo=python&logoColor=black" />
 </div>
   
 ## Objetivos Profissionais ↗
@@ -42,8 +42,8 @@ Estou constantemente buscando aprender e crescer como desenvolvedor. Meus objeti
 ## Contato
 
 <div> 
-  <a href="https://www.linkedin.com/in/thiago-henrique-a43858188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/th_king07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-henrique-a43858188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23FAD000?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
+  <a href="https://www.instagram.com/th_king07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FAD000?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
 </div>  
 
 ## <div align="center" >Estou ansioso para colaborar em projetos interessantes e contribuir para o sucesso da sua equipe. Vamos construir algo incrível juntos!
