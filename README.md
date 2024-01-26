@@ -4,8 +4,8 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/thiagohenrique23/thiagohenrique23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagohenrique23&show_icons=true&theme=shades-of-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohenrique23&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagohenrique23&show_icons=true&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohenrique23&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
 ## Sobre Mim 😎
